@@ -55,8 +55,8 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 ## 교육
 
+## 이미지 저작권
 
+- <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>
 
-<a href="https://www.flaticon.com/kr/free-icons/" title="유튜브 아이콘">유튜브 아이콘  제작자: Freepik - Flaticon</a>
-
-<a href="https://www.flaticon.com/kr/free-icons/github" title="github 아이콘">Github 아이콘  제작자: riajulislam - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by riajulislam - Flaticon</a>
