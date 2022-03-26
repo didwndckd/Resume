@@ -1,6 +1,6 @@
 # 양중창
 
-> iOS Developerㅂ
+> iOS Developer
 
 - **Email**: didwndckd@gmail.com
 - **Phone**: 010-3334-9929
@@ -16,7 +16,7 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 ## 기술
 
-- 사용 언어: Swift, Obhective-C, Java
+- 사용 언어: Swift, Obhective-C
 - 주요 사용 라이브러리: RxSwift, RxCocoa, SnapKit, Moya, Alamofirem, Kingfisher
 - 기타: Git / Github
 
@@ -33,6 +33,29 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 ## 수상 경력
 
+### AngelHack Seoul 2020 우승
+
+> 2020.07.13 ~ 2020.07.19
+
+<img src="Assets/Angelhack2020.jpeg" style="float: left; width:40%;"/>
+
+- AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승하였습니다.
+
+- 링크
+
+  - 시연 영상: [![youtube](Assets/youtube.png)](https://www.youtube.com/watch?v=XIDqwjuPcsk) 
+  - GitHub: [![github](Assets/github.png)](https://github.com/JoongChangYang/AngelHack2020)
+
+  
+
+
+
 ## 프로젝트
 
 ## 교육
+
+
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="유튜브 아이콘">유튜브 아이콘  제작자: Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/kr/free-icons/github" title="github 아이콘">Github 아이콘  제작자: riajulislam - Flaticon</a>
