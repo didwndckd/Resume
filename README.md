@@ -37,20 +37,17 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 > 2020.07.13 ~ 2020.07.19
 
-<img src="Assets/Angelhack2020.jpeg" style="float: left; width:40%;"/>
+<img src="Assets/Angelhack2020.jpeg" style="float: left; width:35%;"/>
 
-- AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승하였습니다.
+AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승하였습니다.
 
-- 관련 링크
-  
-  [![youtube](Assets/icon_youtube.png)](https://www.youtube.com/watch?v=XIDqwjuPcsk) [![github](Assets/icon_github.png)](https://github.com/JoongChangYang/AngelHack2020)
-  
-  
-  
+- 참여 인원: 5명 (iOS 3명, 디자인 2명)
 
+- 링크
 
+  [![youtube](Assets/icon_youtube.png)](https://www.youtube.com/watch?v=XIDqwjuPcsk)	 [![github](Assets/icon_github.png)](https://github.com/JoongChangYang/AngelHack2020)
 
-## 프로젝트
+## 개인 프로젝트
 
 ## 교육
 
