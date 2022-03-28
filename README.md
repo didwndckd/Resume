@@ -26,7 +26,14 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 > 2020.09.07 ~ 현재
 
-- 모자이카 iOS 앱 개발 및 유지보수
+#### 모자이카
+
+- 다운로드
+  
+  [<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EB%AA%A8%EC%9E%90%EC%9D%B4%EC%B9%B4-%EB%8B%A8%EA%B8%B0%EB%A0%8C%ED%8A%B8%EC%B9%B4-%EC%9E%A5%EA%B8%B0%EB%A0%8C%ED%84%B0%EC%B9%B4-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B5%AC%EB%8F%85/id1529825302)
+
+#### 기타
+
 - 제주패스 렌트 iOS 앱 유지보수
 - 카페패스 iOS 앱 유지보수
 - 제주패스 맛집 iOS 앱 유지보수
@@ -44,8 +51,9 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 - 참여 인원: 5명 (iOS 3명, 디자인 2명)
 
 - 링크
+  - Video: [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)	 
+  - Github: [<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
 
-  [![youtube](Assets/icon_youtube.png)](https://www.youtube.com/watch?v=XIDqwjuPcsk)	 [![github](Assets/icon_github.png)](https://github.com/JoongChangYang/AngelHack2020)
 
 ## 개인 프로젝트
 
@@ -55,4 +63,5 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 - <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>
 
-- <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by riajulislam - Flaticon</a>
+- <a href="https://www.flaticon.com/kr/free-icons/github" title="github 아이콘">Github 아이콘  제작자: riajulislam - Flaticon</a>
+
