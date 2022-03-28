@@ -51,8 +51,8 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 - 참여 인원: 5명 (iOS 3명, 디자인 2명)
 
 - 링크
-  - Video: [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)	 
-  - Github: [<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
+
+  [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)		[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
 
 
 ## 개인 프로젝트
