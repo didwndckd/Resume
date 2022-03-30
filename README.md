@@ -10,15 +10,15 @@
 
 2년 차 개발자로 현재 캐플릭스에서 iOS 개발자로 근무하며 렌터카 서비스인 모자이카 앱 외 여러 서비스를 개발 및 유지 보수를 진행하고 있습니다.
 
-RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토리보드 두 가지 방법으로 UI 구현이 가능합니다.
-
 기본을 중요하게 생각하고 개발에 정성을 들이는 것을 좋아해 생각이 정리되기 전에는 키보드에 손을 올리지 않는 편입니다.
+
+RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토리보드 두 가지 방법으로 UI 구현이 가능합니다. 현재 iOS 개발자 동료와 Git/GitLab을 통해 형상관리를 하고 있으며 코드 리뷰 후 Merge 하는 방식으로 진행하고 있습니다.
 
 ## 기술
 
 - 사용 언어: Swift, Obhective-C
 - 주요 사용 라이브러리: RxSwift, RxCocoa, SnapKit, Moya, Alamofirem, Kingfisher
-- 기타: Git / Github
+- 기타: Git/Github
 
 ## 경력
 
@@ -28,9 +28,18 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 #### 모자이카
 
-- 다운로드
-  
-  [<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EB%AA%A8%EC%9E%90%EC%9D%B4%EC%B9%B4-%EB%8B%A8%EA%B8%B0%EB%A0%8C%ED%8A%B8%EC%B9%B4-%EC%9E%A5%EA%B8%B0%EB%A0%8C%ED%84%B0%EC%B9%B4-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B5%AC%EB%8F%85/id1529825302)
+원하는곳에서 렌터카를 픽업하고 반납할 수 있는 렌터카 서비스
+
+[<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EB%AA%A8%EC%9E%90%EC%9D%B4%EC%B9%B4-%EB%8B%A8%EA%B8%B0%EB%A0%8C%ED%8A%B8%EC%B9%B4-%EC%9E%A5%EA%B8%B0%EB%A0%8C%ED%84%B0%EC%B9%B4-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B5%AC%EB%8F%85/id1529825302)
+
+- 앱 리뉴얼
+  - 앱 전체 리뉴얼 작업으로 기획 단계부터 참여하여 모든 화면의 UI와 기능 개선
+  - `UIViewControllerTransitioningDelegate`, `UIViewControllerAnimatedTransitioning` 을 사용하여 화면 전환 애니메이션 커스텀
+- RxSwift + MVVM 패턴 적용
+  - 기존의 VIPER 패턴이 현재 프로젝트와 맞지않는다고 판단하여 MVVM 패턴으로 리팩터링
+
+- Moya를 사용하여 네트워크 통신 모듈 작업
+- 메모리 누수 제거
 
 #### 기타
 
@@ -52,7 +61,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 - 링크
 
-  [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)		[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
+  [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)	[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
 
 
 ## 개인 프로젝트
