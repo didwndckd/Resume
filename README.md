@@ -34,7 +34,9 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 - 앱 리뉴얼
   - 앱 전체 리뉴얼 작업으로 기획 단계부터 참여하여 모든 화면의 UI와 기능 개선
-  - `UIViewControllerTransitioningDelegate`, `UIViewControllerAnimatedTransitioning` 을 사용하여 화면 전환 애니메이션 커스텀
+  - `UIViewControllerTransitioningDelegate`, `UIViewControllerAnimatedTransitioning`을 사용하여 화면 전환 애니메이션 커스텀
+  - RxSwift의  `flatMapLatest`를 사용하여 주소 검색 자동완성 기능 개발
+  - FSCalendar의 `FSCalendarCell` 서브 클래싱으로 달력 커스텀
 - RxSwift + MVVM 패턴 적용
   - 기존의 VIPER 패턴이 현재 프로젝트와 맞지않는다고 판단하여 MVVM 패턴으로 리팩터링
 
@@ -61,7 +63,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 - 링크
 
-  [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)	[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
+  [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
 
 
 ## 개인 프로젝트
