@@ -77,13 +77,11 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 ![Fastcampus_preview](Assets/Fastcampus_preview.png)
 
-- 성과: 우승(상금 160만원)
+[<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
+
+- 성과: **우승**(상금 160만원)
 
 - 참여 인원: 5명 (iOS 3명, 디자인 2명)
-
-- 링크
-
-  [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
   
 - 기본 강의 재생 화면 구현
 
