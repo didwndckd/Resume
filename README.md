@@ -73,15 +73,43 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 > 2020.07.13 ~ 2020.07.19
 
-<img src="Assets/Angelhack2020.jpeg" style="float: left; width:35%;"/>
+AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승
 
-AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승하였습니다.
+![Fastcampus_preview](Assets/Fastcampus_preview.png)
+
+- 성과: 우승(상금 160만원)
 
 - 참여 인원: 5명 (iOS 3명, 디자인 2명)
 
 - 링크
 
   [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
+  
+- 기본 강의 재생 화면 구현
+
+  - `AVFoundation`을 사용하여 영상 재생 및 영상 제어 기능 작업
+
+- 스터디 입장 대기 화면 구현
+
+  - 스터디 내용에 대한 설명과 남은 시간을 표시하며 스터디 시작 시간이 지나면 자동으로 스터디 진행 화면으로 이동하도록 구현
+
+- 스터디 강의 재생 화면 구현
+
+  - 스터디 시작점과 현재 시간을 계산해 모든 스터디원이 동시에 같은 강의 구간을 보도록 구현
+  - 질문 시점과 동영상 재생 시간 비율을 계산하여 재생바에 핀을 등록하는 질문 등록 기능 구현
+
+- 채팅 기능 구현
+
+  - `UICollectionView`와 `UITableView`를 사용하여 질문별로 다른 채팅 내용을 보여주도록 구현
+  - Firebase/Firestore를 사용한 실시간 채팅 기능 구현
+
+
+
+- 상장
+
+  <img src="Assets/Angelhack2020.jpeg" style="float: left; width:35%;"/>
+
+
 
 
 ## 개인 프로젝트
