@@ -32,9 +32,13 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 [<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EB%AA%A8%EC%9E%90%EC%9D%B4%EC%B9%B4-%EB%8B%A8%EA%B8%B0%EB%A0%8C%ED%8A%B8%EC%B9%B4-%EC%9E%A5%EA%B8%B0%EB%A0%8C%ED%84%B0%EC%B9%B4-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B5%AC%EB%8F%85/id1529825302)
 
+![Mosaicar_preview](Assets/Mosaicar_preview.png)
+
 - 앱 리뉴얼
   
   - 앱 전체 리뉴얼 작업으로 기획 단계부터 참여하여 모든 화면의 UI와 기능 개선
+  
+  - Lottie를 사용한 애니메이션 구현
   
   - `UIViewControllerTransitioningDelegate`, `UIViewControllerAnimatedTransitioning`을 사용하여 화면 전환 애니메이션 커스텀
   - FSCalendar의 `FSCalendarCell` 서브 클래싱으로 달력 커스텀 및 렌트 일정 선택 기능 구현
@@ -100,8 +104,6 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
   - `UICollectionView`와 `UITableView`를 사용하여 질문별로 다른 채팅 내용을 보여주도록 구현
   - Firebase/Firestore를 사용한 실시간 채팅 기능 구현
-
-
 
 - 상장
 
