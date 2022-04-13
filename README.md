@@ -73,17 +73,17 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 ## 수상 경력
 
-### AngelHack Seoul 2020 우승
+### AngelHack Seoul 2020
 
 > 2020.07.13 ~ 2020.07.19
 
 AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승
 
-![Fastcampus_preview](Assets/Fastcampus_preview.png)
-
 [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
 
-- 성과: **우승**(상금 160만원)
+![Fastcampus_preview](Assets/Fastcampus_preview.png)
+
+- 성과: **우승** (상금 160만원)
 
 - 참여 인원: 5명 (iOS 3명, 디자인 2명)
   
@@ -111,8 +111,17 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 
 
-
 ## 개인 프로젝트
+
+### Netflix Clone
+
+> 2020.03.20 ~ 2020.04.29
+
+패스트 캠퍼스에서 진행한 팀 프로젝트
+
+Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트 입니다.
+
+[<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=qguomgFr5IQ)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/Netflix_Clone_iOS)
 
 ## 교육
 
