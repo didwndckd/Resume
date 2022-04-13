@@ -117,11 +117,19 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 > 2020.03.20 ~ 2020.04.29
 
-패스트 캠퍼스에서 진행한 팀 프로젝트
+패스트 캠퍼스에서 진행한 팀 프로젝트로 Backend팀과 협업하며 기존 Netflix 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트
 
-Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트 입니다.
+[<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=qguomgFr5IQ)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/FC-NETFLEX/Netflix_Clone_iOS)
 
-[<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=qguomgFr5IQ)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/Netflix_Clone_iOS)
+![Netflix_Clone_preview](Assets/Netflix_Clone_preview.png)
+
+- 참여 인원: 6명 (iOS 4명, Backend 2명)
+- 담당 작업 내용
+  - 영상 재생 기능 구현
+  - 콘텐츠 저장 기능 구현
+  - 로그인, 회원가입 기능 구현
+  - 통신 모듈 작업
+- **Detail**: https://github.com/JoongChangYang/Netflix_Clone_iOS
 
 ## 교육
 
