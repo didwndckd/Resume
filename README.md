@@ -12,13 +12,13 @@
 
 기본을 중요하게 생각하고 개발에 정성을 들이는 것을 좋아해 생각이 정리되기 전에는 키보드에 손을 올리지 않는 편입니다.
 
-RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토리보드 두 가지 방법으로 UI 구현이 가능합니다. 현재 iOS 개발자 동료와 Git/GitLab을 통해 형상관리를 하고 있으며 코드 리뷰 후 Merge 하는 방식으로 진행하고 있습니다.
+RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토리보드 두 가지 방법으로 UI 구현이 가능합니다. 현재 iOS 개발자 동료와 Git을 통해 형상관리를 하고 있으며 코드 리뷰 후 Merge 하는 방식으로 진행하고 있습니다.
 
 ## 기술
 
 - 사용 언어: Swift, Objective-C
 - 주요 사용 라이브러리: RxSwift, RxCocoa, SnapKit, Moya, Alamofirem, Kingfisher
-- 기타: Git/Github
+- 기타: Git, Github, GitLab
 
 ## 경력
 
