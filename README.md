@@ -146,7 +146,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 - iOS 개발 과정 수료 및 다수의 프로젝트 진행
 
-## 이미지 저작권
+#### 이미지 저작권
 
 - <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>
 
