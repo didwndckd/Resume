@@ -79,7 +79,7 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승
 
-[<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020)
+[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=XIDqwjuPcsk)
 
 ![Fastcampus_preview](Assets/Fastcampus_preview.png)
 
@@ -111,6 +111,18 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 
 
+## 기타 프로젝트
+
+### 코딩로비
+
+> 2021.10.21 ~ 2021.12.29
+
+블루투스 연결을 통한 로봇 제어 앱
+
+[<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EC%BD%94%EB%94%A9%EB%A1%9C%EB%B9%84/id1612932970)
+
+![CodingRoby_preview](Assets/CodingRoby_preview.jpeg)
+
 ## 개인 프로젝트
 
 ### Netflix Clone
@@ -119,7 +131,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 패스트 캠퍼스에서 진행한 팀 프로젝트로 Backend 팀과 협업하며 기존 Netflix 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트
 
-[<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=qguomgFr5IQ)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="Assets/icon_github.png" width=60px/>](https://github.com/FC-NETFLEX/Netflix_Clone_iOS)
+[<img src="Assets/icon_github.png" width=60px/>](https://github.com/FC-NETFLEX/Netflix_Clone_iOS) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=qguomgFr5IQ)
 
 ![Netflix_Clone_preview](Assets/Netflix_Clone_preview.png)
 
@@ -148,6 +160,6 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 #### 이미지 저작권
 
-- <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>
+- <img src = "Assets/icon_github.png" width = 50px/> <a href="https://www.flaticon.com/kr/free-icons/github" title="github 아이콘">Github 아이콘  제작자: riajulislam - Flaticon</a>
 
-- <a href="https://www.flaticon.com/kr/free-icons/github" title="github 아이콘">Github 아이콘  제작자: riajulislam - Flaticon</a>
+- <img src = "Assets/icon_youtube.png" width = 50px/>  <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Md Tanvirul Haque - Flaticon</a>
