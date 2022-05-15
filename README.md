@@ -117,11 +117,19 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 > 2021.10.21 ~ 2021.12.29
 
-블루투스 연결을 통한 로봇 제어 앱
+블루투스 연결을 통해 로봇을 제어하며 놀 수 있는 아이들을 위한 코딩 교육 앱
 
 [<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EC%BD%94%EB%94%A9%EB%A1%9C%EB%B9%84/id1612932970) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=2jRoFh67k18)
 
 ![CodingRoby_preview](Assets/CodingRoby_preview.jpeg)
+
+- RxSwift, MVVM 패턴, 스토리보드 사용
+- `CoreBluetooth`를 사용하여 큐브 연결과 데이터 입출력 제어
+- 블루투스 데이터 전송 간 `Queue`를 구현하여 데이터를 안전하게 전송할 수 있도록 구현
+- 컨트롤러 프로토콜**(버튼, 조이스틱, 움직임 등)**을 정의하고 로봇 구조체에 필요한 프로토콜들을 채택하여 구현
+- 각도 값, 중앙에서 떨어진 정도를 알 수 있는 커스텀 조이스틱 뷰 구현
+
+
 
 ## 개인 프로젝트
 
