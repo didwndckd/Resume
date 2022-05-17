@@ -117,7 +117,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 블루투스 연결을 통해 로봇을 제어하며 놀 수 있는 아이들을 위한 코딩 교육 앱
 
-[<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EC%BD%94%EB%94%A9%EB%A1%9C%EB%B9%84/id1612932970) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=50px/>](https://www.youtube.com/watch?v=2jRoFh67k18)
+[<img src="Assets/icon_app_store_download.png" height = 50px/>](https://apps.apple.com/kr/app/%EC%BD%94%EB%94%A9%EB%A1%9C%EB%B9%84/id1612932970) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=50px/>](https://www.youtube.com/watch?v=2jRoFh67k18)
 
 ![CodingRoby_preview](Assets/CodingRoby_preview.jpeg)
 
