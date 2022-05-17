@@ -30,7 +30,7 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 원하는 곳에서 렌터카를 픽업하고 반납할 수 있는 렌터카 서비스
 
-[<img src="Assets/icon_app_store_download.png" height = 60px/>](https://apps.apple.com/kr/app/%EB%AA%A8%EC%9E%90%EC%9D%B4%EC%B9%B4-%EB%8B%A8%EA%B8%B0%EB%A0%8C%ED%8A%B8%EC%B9%B4-%EC%9E%A5%EA%B8%B0%EB%A0%8C%ED%84%B0%EC%B9%B4-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B5%AC%EB%8F%85/id1529825302)
+[<img src="Assets/icon_app_store_download.png" height = 50px/>](https://apps.apple.com/kr/app/%EB%AA%A8%EC%9E%90%EC%9D%B4%EC%B9%B4-%EB%8B%A8%EA%B8%B0%EB%A0%8C%ED%8A%B8%EC%B9%B4-%EC%9E%A5%EA%B8%B0%EB%A0%8C%ED%84%B0%EC%B9%B4-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B5%AC%EB%8F%85/id1529825302)
 
 ![Mosaicar_preview](Assets/Mosaicar_preview.png)
 
@@ -117,7 +117,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 블루투스 연결을 통해 로봇을 제어하며 놀 수 있는 아이들을 위한 코딩 교육 앱
 
-[<img src="Assets/icon_app_store_download.png" height = 60px/>](https://apps.apple.com/kr/app/%EC%BD%94%EB%94%A9%EB%A1%9C%EB%B9%84/id1612932970) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=60px/>](https://www.youtube.com/watch?v=2jRoFh67k18)
+[<img src="Assets/icon_app_store_download.png" height = 50px/>](https://apps.apple.com/kr/app/%EC%BD%94%EB%94%A9%EB%A1%9C%EB%B9%84/id1612932970) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=60px/>](https://www.youtube.com/watch?v=2jRoFh67k18)
 
 ![CodingRoby_preview](Assets/CodingRoby_preview.jpeg)
 
