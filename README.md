@@ -43,8 +43,6 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
   - `UIViewControllerTransitioningDelegate`, `UIViewControllerAnimatedTransitioning`을 사용하여 화면 전환 애니메이션 커스텀
   - FSCalendar의 `FSCalendarCell` 서브 클래싱으로 달력 커스텀 및 렌트 일정 선택 기능 구현
   - OCR SDK를 커스텀 하여 디자인에 맞춰 카드 스캔 기능 구현
-  - RxSwift의  `flatMapLatest`를 사용하여 주소 검색 자동완성 기능 구현
-  - RxSwift의 `combineLatest`를 사용하여 차량 필터 멀티 선택 기능 구현
   
 - MVVM 패턴 적용
   
@@ -79,7 +77,7 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승
 
-[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/AngelHack2020) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=k_3of0Qic5c)
+[<img src="Assets/icon_github.png" width=50px/>](https://github.com/JoongChangYang/AngelHack2020) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=50px/>](https://www.youtube.com/watch?v=k_3of0Qic5c)
 
 ![Fastcampus_preview](Assets/Fastcampus_preview.png)
 
@@ -119,7 +117,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 블루투스 연결을 통해 로봇을 제어하며 놀 수 있는 아이들을 위한 코딩 교육 앱
 
-[<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EC%BD%94%EB%94%A9%EB%A1%9C%EB%B9%84/id1612932970) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=2jRoFh67k18)
+[<img src="Assets/icon_app_store_download.png" style=" height: 50px;"/>](https://apps.apple.com/kr/app/%EC%BD%94%EB%94%A9%EB%A1%9C%EB%B9%84/id1612932970) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=50px/>](https://www.youtube.com/watch?v=2jRoFh67k18)
 
 ![CodingRoby_preview](Assets/CodingRoby_preview.jpeg)
 
@@ -139,7 +137,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 패스트 캠퍼스에서 진행한 팀 프로젝트로 Backend 팀과 협업하며 기존 Netflix 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트
 
-[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/Netflix_Clone_iOS) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=70px/>](https://www.youtube.com/watch?v=qguomgFr5IQ)
+[<img src="Assets/icon_github.png" width=50px/>](https://github.com/JoongChangYang/Netflix_Clone_iOS) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="Assets/icon_youtube.png" width=50px/>](https://www.youtube.com/watch?v=qguomgFr5IQ)
 
 ![Netflix_Clone_preview](Assets/Netflix_Clone_preview.png)
 
