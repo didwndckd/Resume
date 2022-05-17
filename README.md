@@ -109,6 +109,22 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 
 
+## 오픈소스 프로젝트
+
+### JCJoystick
+
+> 2022.04.14 ~ 2022.04.30
+
+게임이나 컨트롤러 등에 사용 가능한 조이스틱 뷰
+
+[<img src="Assets/icon_github.png" width=60px/>](https://github.com/JoongChangYang/JCJoystick)
+
+![JCJoystick_preview](Assets/JCJoystick_preview.jpeg) 
+
+
+
+
+
 ## 기타 프로젝트
 
 ### 코딩로비
