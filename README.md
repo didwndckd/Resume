@@ -69,6 +69,8 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 - 카페패스 iOS 앱 유지 보수
 - 제주패스 맛집 iOS 앱 유지 보수
 
+
+
 ## 수상 경력
 
 ### AngelHack Seoul 2020
@@ -121,7 +123,9 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 ![JCJoystick_preview](Assets/JCJoystick_preview.jpeg) 
 
-
+- CocoaPods 배포
+- 사용자 터치 이벤트를 따라 뷰를 이동시키고 각도값과 중간지점에서 떨어진 정도를 delegate를 통해 전달
+- 터치 이벤트가 가이드 뷰를 벗어나면 현재 터치 포인트 방향의 외곽 지점으로 위치를 조정하여 부드럽게 움직이는 조이스틱 구현
 
 
 
