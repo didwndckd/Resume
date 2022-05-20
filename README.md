@@ -162,6 +162,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 패스트 캠퍼스에서 진행한 팀 프로젝트로 Backend 팀과 협업하며 기존 Netflix 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트
 
 **GitHub**: https://github.com/JoongChangYang/Netflix_Clone_iOS
+
 **시연 영상**: https://www.youtube.com/watch?v=qguomgFr5IQ
 
 ![Netflix_Clone_preview](Assets/Netflix_Clone_preview.png)
