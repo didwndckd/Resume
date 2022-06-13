@@ -17,7 +17,7 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 ## 기술
 
 - 사용 언어: Swift, Objective-C
-- 주요 사용 라이브러리: RxSwift, RxCocoa, SnapKit, Moya, Alamofirem, Kingfisher
+- 주요 사용 라이브러리: RxSwift, RxCocoa, SnapKit, Moya, Alamofire, Kingfisher
 - 기타: Git, Github, GitLab
 
 ## 경력
