@@ -4,7 +4,7 @@
 
 - **Email**: didwndckd@gmail.com
 - **Phone**: 010-3334-9929
-- **GitHub**: https://github.com/JoongChangYang
+- **GitHub**: https://github.com/didwndckd
 
 ## 소개
 
@@ -82,7 +82,7 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 산간 거주 등 불가피한 원격 상황에서도 학습 의지 부여와 완주율을 높이는 교육, 학습 솔루션을 주제로 온라인 스터디 앱을 개발하여 우승
 
-**GitHub**: https://github.com/JoongChangYang/AngelHack2020
+**GitHub**: https://github.com/didwndckd/AngelHack2020
 
 **시연 영상**: https://www.youtube.com/watch?v=k_3of0Qic5c
 
@@ -124,7 +124,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 게임이나 컨트롤러 등에 사용 가능한 조이스틱 뷰
 
-**GitHub**: https://github.com/JoongChangYang/JCJoystick
+**GitHub**: https://github.com/didwndckd/JCJoystick
 
 ![JCJoystick_preview](Assets/JCJoystick_preview.jpeg) 
 
@@ -164,7 +164,7 @@ AngelHack Seoul 2020에 참가하여 코로나와 같은 재난 격리, 도서 �
 
 패스트 캠퍼스에서 진행한 팀 프로젝트로 Backend 팀과 협업하며 기존 Netflix 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트
 
-**GitHub**: https://github.com/JoongChangYang/Netflix_Clone_iOS
+**GitHub**: https://github.com/didwndckd/Netflix_Clone_iOS
 
 **시연 영상**: https://www.youtube.com/watch?v=qguomgFr5IQ
 
