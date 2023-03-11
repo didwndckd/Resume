@@ -30,15 +30,6 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 
 > 2020.09.07 ~ 현재
 
-
-#### 리본 배반차 파트너
-![RebornCar_preview](Assets/RebornCar_preview.png)
-
-
-#### 영수증챙겼니??
-
-![SMTM_preview](Assets/SMTM_preview2.png)
-
 #### 모자이카
 
 원하는 곳에서 렌터카를 픽업하고 반납할 수 있는 렌터카 서비스
@@ -64,20 +55,60 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
   - UI와 로직을 좀 더 명확하게 분리하며 가독성과 유지 보수성 향상
   - 개발 속도 향상
   
-- 네트워크 통신 모듈 작업
+- 네트워크 통신 모듈 개발
 
   - Moya를 도입하여 타입 및 케이스별로 명확한 API 관리가 가능하게 함
 
   - Moya `TargetType` 프로토콜을 채택한 타입과 파싱 할 타입을 전달받아 `Observable<파싱 타입>`을 반환하여 구독할 수 있도록 Request 함수 구현
   - `Observable`을 확장하여 내부 정의 네트워크 에러 타입으로 `onError`를 전달받을 수 있는 `subscribe` 함수 구현
 
+- 로딩 모듈 개발
+
+  - Rx 기반으로 `subscribe`와 `dispose` 횟수를 카운트하여 로딩 여부를 판단하는 클래스 작성
+  - 주로 비동기 네트워크 통신 작업에 사용되며 여러 작업을 동시에 진행하더라도 명확한 로딩 시작, 종료 시점을 알 수 있음
+  
+- `@propertyWrapper`를 사용하여 `UserDefaults` 저장 로직 간편화 작업
+
 - 메모리 누수 제거
 
   - 기존 코드의 화면 이동 방식의 결함으로 모든 화면에 순환 참조가 존재하였으나 분석 후 순환 참조 제거
+  - `WKUserContentController` 브릿지 등록 시 전달하는  `WKScriptMessageHandler` 객체를 강한 참조하여 순환 참조 발생
+    - 대신 강한 참조 받을 클래스를 정의하고 내부에 `WKScriptMessageHandler` 객체를 받아 약한 참조하여 메모리 누수 제거
+    
+  
+  
+
+#### 리본 배반차 파트너
+
+당사의 렌터카 영업관리 시스템과 연동되어 배차, 반차를 앱으로 관리할 수 있는 서비스
+
+![RebornCar_preview](Assets/RebornCar_preview.png)
+
+- 다국어 지원 (일본어, 한국어)
+- 멀티 타겟으로 한국 버전, 일본 버전 앱을 따로 배포 및 관리
+- iPad, iPhone을 지원하는 UI 구현
+- 가로 모드, 세로 모드 지원
+- 출고할 차량 사진을 찍을 카메라 기능 구현
+  - `AVCaptureSession`을 사용하여 카메라 기능 구현
+  - `CMMotionManager`의 **가속도계 센서**를 사용하여 사용자의 화면 회전 잠금 여부와 상관없이 **모든 방향으로의 UI 회전**과 **올바른 방향으로 이미지 저장**
+
+- 차량 파손 상태를 저장할 캔버스 기능 구현
+  - 사용자의 터치 이벤트를 받아 `CGContext`를 생성하고 라인을 그리거나 지우는 기능 구현
+
+
+
+
+#### 영수증챙겼니??
+
+사내 식대, 법인카드, 개인경비 영수증 이미지를 업로드 하고 관리하는 사내 서비스
+
+![SMTM_preview](Assets/SMTM_preview2.png)
 
 #### 제주패스
 
 ![JejuPass_preview](Assets/JejuPass_preview.png)
+
+
 
 #### 기타
 
