@@ -88,6 +88,7 @@ RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토�
 - 화면 전환 애니메이션 커스텀
   - `UIViewControllerTransitioningDelegate`, `UIViewControllerAnimatedTransitioning`을 사용하여 화면 전환 애니메이션 커스텀을 위한 수퍼 클래스 구현
   - 뷰 컨트롤러의 자체 크기만큼만 올라오는 바텀 시트 컨트롤러 구현
+- `SkeletonView`를 사용하여 스켈레톤 로딩 구현
 - 로그인 모듈 개발
   - 앱 로그인을 처리하고 관리하는 모듈 개발
   - 아이디 로그인, SNS 간편 로그인(네이버, 카카오, 애플), 생체 인증 로그인 기능 구현
