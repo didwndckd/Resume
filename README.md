@@ -8,29 +8,47 @@
 
 ## 소개
 
-현재 캐플릭스에서 iOS 개발자로 근무하며 렌터카 서비스인 모자이카 앱 외 여러 서비스를 개발 및 유지 보수를 진행하고 있습니다.
+현재 크몽에서 iOS 개발자로 근무하며 iOS앱 개발 및 유지 보수를 진행하고 있습니다.
 
 기본을 중요하게 생각하고 개발에 정성을 들이는 것을 좋아해 생각이 정리되기 전에는 키보드에 손을 올리지 않습니다.
 
-RxSwift와 MVVM 패턴을 사용하여 개발하며 코드 베이스와 스토리보드 두 가지 방법으로 UI 구현이 가능합니다. 현재 iOS 개발자 동료와 Git을 통해 형상 관리를 하고 있으며 코드 리뷰 후 병합 하는 방식으로 진행하고 있습니다.
+Clean Architecture, MVVM을 사용하여 개발하며 SwifUI, 코드 베이스, 스토리보드 UI 구현이 가능합니다.
 
-
+현재 iOS팀 내에서 Git을 통해 형상 관리를 하고 있으며 코드 리뷰 후 병합 하는 방식으로 진행하고 있습니다.
 
 ## 기술
 
 - 사용 언어: Swift, Objective-C
-- 주요 사용 라이브러리: RxSwift, RxCocoa, SnapKit, Moya, Alamofire, Kingfisher
+- 주요 사용 라이브러리, 프레임워크: UIKit, SwiftUI, Combine, RxSwift, RxCocoa, SnapKit, Moya, Alamofire
 - 기타: Git, Github, GitLab
-
-
 
 ## 경력
 
-### 크몽
+### (주)크몽
 
-> 2020.07 ~
+> 2023.07.13 ~ 현재
 
+프리랜서/아웃소싱 플랫폼
 
+![Kmong_preview](Assets/Kmong_preview.png)
+
+- `Tuist`를 사용한 모듈화 작업환경 구성 및 관리
+  - Tuist 설치
+  - 빌드 세팅 설정
+  - 크몽 앱 디버그 타겟 분리
+  - 공통 UI 모듈 분리
+- 채팅 개선
+  - `UICollectionViewDiffableDataSource` 적용하여 메세지 데이터와 UI 간의 안전한 동기화
+  - 메세지 리스트 관리 로직 개선
+  - 채팅 화면에서의 **비정상 종료 0건**으로 개선
+- 화면 이동 관리를 위한 Router 모듈 구현
+  - 화면 이동 로직, 트랜지션 등의 책임 분리
+  - 바텀 시트, 툴팁 등을 위한 커스텀 트랜지션 구현
+  - 추후 Feature 별 모듈 분리를 위한 선행 작업
+- 기존 화면 Clean Architecture, SwiftUI 적용
+- 데이터 마이그레이션 관리 모듈 구현
+- 캐러셀 뷰 작업
+- 일정 관리 기능 작업
 
 ### (주)캐플릭스
 
