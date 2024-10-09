@@ -16,8 +16,6 @@ Clean Architecture, MVVM을 사용하여 개발하며 RxSwift, Combine 등을 �
 
 현재 iOS 팀 내에서 Git을 통해 형상 관리를 하고 있으며 코드 리뷰 후 병합하는 방식으로 진행하고 있습니다.
 
-## 기술
-
 - 사용 언어: Swift, Objective-C
 - 모듈화: Tuist
 - 업무 툴: Slack, Jira, Confluence, Figma
@@ -48,14 +46,16 @@ Clean Architecture, MVVM을 사용하여 개발하며 RxSwift, Combine 등을 �
   - 추후 Feature 별 모듈 분리를 위한 선행 작업
 - 기존 화면 Clean Architecture, SwiftUI 적용
 - 데이터 마이그레이션 관리 모듈 구현
-- 캐러셀 뷰 작업
+- 캐러셀 뷰 구현
   - `UICollectionView`를 이용하여 구현
 
-- 일정 관리 기능 작업
-  - 캘린더 주/월 단위로 볼 수 있도록 커스텀
+  - 호출자가 원하는 사이즈, 여백을 조정하여 사용할 수 있도록 구현
 
-- 견적문의 폼 작업
-- 견적문의 복수 발송 작업
+  - 오토 스크롤 구현
+
+- 일정 관리 기능 작업
+  - FSCalendar의 `FSCalendarCell` 서브 클래싱으로 달력 UI 커스텀
+  - 캘린더 주/월 단위로 볼 수 있도록 구현
 
 ### (주)캐플릭스
 
