@@ -8,19 +8,20 @@
 
 ## 소개
 
-현재 크몽에서 iOS 개발자로 근무하며 iOS앱 개발 및 유지 보수를 진행하고 있습니다.
+현재 크몽에서 iOS 개발자로 근무하며 크몽앱 개발 및 유지 보수를 진행하고 있습니다.
 
 기본을 중요하게 생각하고 개발에 정성을 들이는 것을 좋아해 생각이 정리되기 전에는 키보드에 손을 올리지 않습니다.
 
-Clean Architecture, MVVM을 사용하여 개발하며 SwifUI, 코드 베이스, 스토리보드 UI 구현이 가능합니다.
+Clean Architecture, MVVM을 사용하여 개발하며 RxSwift, Combine 등을 사용한 리액티브 프로그래밍에 적극적입니다.
 
-현재 iOS팀 내에서 Git을 통해 형상 관리를 하고 있으며 코드 리뷰 후 병합 하는 방식으로 진행하고 있습니다.
+현재 iOS 팀 내에서 Git을 통해 형상 관리를 하고 있으며 코드 리뷰 후 병합하는 방식으로 진행하고 있습니다.
 
 ## 기술
 
 - 사용 언어: Swift, Objective-C
-- 주요 사용 라이브러리, 프레임워크: UIKit, SwiftUI, Combine, RxSwift, RxCocoa, SnapKit, Moya, Alamofire
-- 기타: Git, Github, GitLab
+- 모듈화: Tuist
+- 업무 툴: Slack, Jira, Confluence, Figma
+- 형상관리: Git, Github, GitLab
 
 ## 경력
 
@@ -49,6 +50,8 @@ Clean Architecture, MVVM을 사용하여 개발하며 SwifUI, 코드 베이스, 
 - 데이터 마이그레이션 관리 모듈 구현
 - 캐러셀 뷰 작업
 - 일정 관리 기능 작업
+- 견적문의 폼 작업
+- 견적문의 복수 발송 작업
 
 ### (주)캐플릭스
 
