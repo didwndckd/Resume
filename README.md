@@ -49,7 +49,11 @@ Clean Architecture, MVVM을 사용하여 개발하며 RxSwift, Combine 등을 �
 - 기존 화면 Clean Architecture, SwiftUI 적용
 - 데이터 마이그레이션 관리 모듈 구현
 - 캐러셀 뷰 작업
+  - `UICollectionView`를 이용하여 구현
+
 - 일정 관리 기능 작업
+  - 캘린더 주/월 단위로 볼 수 있도록 커스텀
+
 - 견적문의 폼 작업
 - 견적문의 복수 발송 작업
 
