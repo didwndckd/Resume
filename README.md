@@ -23,7 +23,7 @@ Clean Architecture, MVVM을 사용하여 개발하며 RxSwift, Combine 등을 �
 - 업무 툴: Slack, Jira, Confluence, Figma
 - 형상관리: Git, Github, GitLab
 
-## 경력
+## 경력 (5년차)
 
 ### (주)크몽
 
