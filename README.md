@@ -14,6 +14,8 @@
 
 Clean Architecture, MVVM을 사용하여 개발하며 RxSwift, Combine 등을 사용한 리액티브 프로그래밍에 적극적입니다.
 
+요즘은 Swift Concurrency에 관심을 가지고 프로젝트에 적용중에 있습니다.
+
 현재 iOS 팀 내에서 Git을 통해 형상 관리를 하고 있으며 코드 리뷰 후 병합하는 방식으로 진행하고 있습니다.
 
 - 사용 언어: Swift, Objective-C
