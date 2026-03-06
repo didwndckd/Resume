@@ -110,7 +110,7 @@ RoboRisen(외주) | 2021.10.21 ~ 2021.12.29
 [수상 경력]
 
 AngelHack Seoul 2020 | 2020.07.13 ~ 2020.07.19
-원격 학습 환경에서의 완주율 향상을 주제로 온라인 스터디 앱을 개발하여 우승 (상금 160만원)
+원격 학습 환경에서의 완주율 향상을 주제로 온라인 스터디 앱을 개발하여 우승
 참여 인원: 5명 (iOS 3명, 디자인 2명)
 GitHub: https://github.com/didwndckd/AngelHack2020
 시연 영상: https://www.youtube.com/watch?v=k_3of0Qic5c
