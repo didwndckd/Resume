@@ -53,7 +53,7 @@ UI: UIKit, SwiftUI, Storyboard
 
 • Endpoint 패턴 도입으로 API 관리 구조 개선
   - 기존 Moya TargetType enum 방식에서 API별 개별 Endpoint struct로 전환
-  - API-ResponseModel 1:1 매칭을 associatedtype으로 컴파일 타임에 강제
+  - associatedtype을 활용하여 API와 ResponseModel의 1:1 매칭을 컴파일 타임에 검증하도록 설계
   - 요청 정보가 하나의 struct에 응집되어 API 히스토리 파악 용이
 
 • 디자인 시스템 모듈 구축
@@ -94,7 +94,7 @@ iOS 팀 2명
 
 ---
 
-RoboRisen(외주) | 2021.10.21 ~ 2021.12.29
+RoboRisen(외주 프로젝트) | 2021.10.21 ~ 2021.12.29
 
 [코딩로비] 블루투스 연결을 통해 로봇을 제어하며 놀 수 있는 아이들을 위한 코딩 교육 앱
 
