@@ -155,31 +155,6 @@ iOS 팀 2명
 - 사용자 터치 이벤트를 따라 뷰를 이동시키고 각도값과 중간지점에서 떨어진 정도를 `delegate`를 통해 전달
 - 터치 이벤트가 가이드 뷰를 벗어나면 현재 터치 포인트 방향의 외곽 지점으로 위치를 조정하여 부드럽게 움직이는 조이스틱 구현
 
-
-
-## 개인 프로젝트
-
-### Netflix Clone
-
-> 2020.03.20 ~ 2020.04.29
-
-패스트 캠퍼스에서 진행한 팀 프로젝트로 Backend 팀과 협업하며 기존 Netflix 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트
-
-**GitHub**: https://github.com/didwndckd/Netflix_Clone_iOS
-
-**시연 영상**: https://www.youtube.com/watch?v=qguomgFr5IQ
-
-![Netflix_Clone_preview](Assets/Netflix_Clone_preview.png)
-
-- 참여 인원: 6명 (iOS 4명, Backend 2명)
-- 담당 작업 내용
-  - 영상 재생 기능 구현
-  - 콘텐츠 저장 기능 구현
-  - 로그인, 회원가입 기능 구현
-  - 통신 모듈 작업
-
-
-
 ## 학력
 
 ### 국가평생교육진흥원 학점은행
