@@ -59,6 +59,16 @@ iOS 팀 2명 규모 조직에서 iOS 앱 개발 및 운영
 
 
 
+## 오픈소스
+
+### JCJoystick
+
+게임/컨트롤러용 커스텀 조이스틱 뷰 라이브러리 (CocoaPods 배포)
+
+**GitHub**: https://github.com/didwndckd/JCJoystick
+
+
+
 ## 수상 경력
 
 ### AngelHack Seoul 2020 우승
