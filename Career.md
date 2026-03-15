@@ -98,7 +98,7 @@ iOS 팀 2명 규모 조직에서 iOS 앱 개발 및 운영
 - 디자인 패턴: MVVM
 - UI: UIKit, Storyboard
 - 비동기/반응형: RxSwift
-- 네트워크: Moya
+- 기타: Moya, Firebase Analytics, Firebase Crashlytics, FCM
 
 #### 모자이카
 
