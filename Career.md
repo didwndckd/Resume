@@ -111,6 +111,10 @@ iOS 팀 2명 규모 조직에서 iOS 앱 개발 및 운영
 
 ![Mosaicar_preview](Assets/Mosaicar_preview.png)
 
+- RxSwift 기반 Input/Output 단방향 아키텍처 설계
+  - ViewModel 프로토콜에 associatedtype으로 Input/Output을 정의하고 `transform(input:) -> Output` 메서드로 단방향 데이터 흐름 구현
+  - ViewController 프로토콜을 정의하여 ViewModel 바인딩과 Storyboard 기반 인스턴스 생성을 규격화
+  - 팀 내 MVVM 구현 컨벤션을 통일하여 일관된 코드 구조 확보
 - 앱 전체 리뉴얼 주도
   - 기획 단계부터 참여하여 전체 화면 UI 및 기능 재설계
   - 기존 VIPER 패턴이 소규모 팀에서 과도한 보일러플레이트를 유발한다고 판단, MVVM으로 전환하여 개발 속도 개선
