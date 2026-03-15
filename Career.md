@@ -126,3 +126,11 @@ iOS 팀 2명 규모 조직에서 iOS 앱 개발 및 운영
 - `Moya.PluginType` 기반 토큰 자동 갱신 플러그인 개발
 - FCM 푸시, 다이나믹 링크, 퀵 액션 등 앱 진입점 처리 모듈 통합 설계
 - Xcode 파일 생성 템플릿을 작성하여 팀 내 개발 컨벤션 통일에 기여
+
+#### 카페패스 · 맛집패스
+
+제주 맛집/카페 추천 서비스
+
+- Objective-C → Swift 마이그레이션 수행
+- 기존 Objective-C 코드베이스를 Swift로 단계적 전환
+- Bridging Header를 활용한 Objective-C/Swift 혼용 환경에서의 점진적 마이그레이션
