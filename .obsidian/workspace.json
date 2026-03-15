@@ -6,7 +6,7 @@
       {
         "id": "839f6f63fa3edb89",
         "type": "tabs",
-        "dimension": 49.05234657039711,
+        "dimension": 44.494584837545126,
         "children": [
           {
             "id": "55e079a96e018996",
@@ -42,7 +42,7 @@
       {
         "id": "e048bf5c645fc25b",
         "type": "tabs",
-        "dimension": 50.94765342960289,
+        "dimension": 55.505415162454874,
         "children": [
           {
             "id": "435df9cfc2c8e98f",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume.md",
+                "file": "Career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Resume 의 백링크"
+              "title": "Career 의 백링크"
             }
           },
           {
@@ -150,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume.md",
+                "file": "Career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Resume 의 나가는 링크"
+              "title": "Career 의 나가는 링크"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume.md",
+                "file": "Career.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Resume 의 개요"
+              "title": "Career 의 개요"
             }
           }
         ]
@@ -220,7 +220,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "8157fe0f8a7f9444",
+  "active": "435df9cfc2c8e98f",
   "lastOpenFiles": [
     "Career.md",
     "Resume.md",
