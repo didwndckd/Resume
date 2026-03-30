@@ -1,4 +1,4 @@
-# Jungchang Yang - Career Description
+# Joongchang Yang - Career Description
 
 > iOS Developer
 
@@ -8,7 +8,7 @@
 
 
 
-## Experience (6 Years)
+## Experience (5+ Years)
 
 
 
@@ -91,7 +91,7 @@ Developed and maintained the iOS app (~360K LOC codebase) within a 4-member iOS 
 
 
 
-### Caflix Inc.
+### Kaflix Inc.
 
 > Sep 2020 – Jun 2023 (2 years 10 months)
 

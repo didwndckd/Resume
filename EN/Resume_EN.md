@@ -1,4 +1,4 @@
-# Jungchang Yang - Resume
+# Joongchang Yang - Resume
 
 > iOS Developer
 
@@ -31,7 +31,7 @@ I aim to design architectures that operate reliably even in complex service envi
 
 
 
-## Experience (6 Years)
+## Experience (5+ Years)
 
 ### Kmong Inc.
 
@@ -50,7 +50,7 @@ Developed and maintained the iOS app (~360K LOC codebase) within a 4-member iOS 
 
 
 
-### Caflix Inc.
+### Kaflix Inc.
 
 > Sep 2020 – Jun 2023 (2 years 10 months)
 
